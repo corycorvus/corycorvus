@@ -42,7 +42,7 @@
 * Graphics
 * Developer Relations
 * Prototyping
-* Game Streaming
+* Remote Rendering
 
 
 ### 💬Presentations💬
