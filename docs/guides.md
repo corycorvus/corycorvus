@@ -22,6 +22,12 @@
 
 
 
+
+
+!> **Important Content**
+
+
+
 > [!NOTE]
 > An alert of type 'note' using global style 'callout'.
 
@@ -36,3 +42,10 @@
 
 > [!ATTENTION]
 > An alert of type 'attention' using global style 'callout'.
+
+
+
+
+
+
+
