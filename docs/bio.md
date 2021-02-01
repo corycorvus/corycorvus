@@ -1,15 +1,14 @@
-
 <div class="container">
-  <img src="_media/banner-background.png" style="width:100%;">
-  <div class="centered" style="font-size:50px">
-  <img src="_media/profile_border.png" style="width:30%;"><br>
-  Cory Corvus
-<p style="font-size:25px">
+  <img src="_media/banner-background.png" style="width:100%; height:auto">
+  <div class="centered">
+  <img src="_media/profile_border.png" style="width:10vw; height:auto"><br>
+<div  style="font-size:calc(12px + 1.5vw)">Cory Corvus</div>
+<div style="font-size:calc(1px + 1vw)"><br></div>
+<div style="font-size:calc(10px + 1vw)">
 Developer Relations Engineer - San Francisco, United States
-</p>
 </div>
 </div>
-
+</div>
 
 
 
