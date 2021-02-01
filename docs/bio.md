@@ -1,4 +1,20 @@
+
+<div class="container">
+  <img src="_media/banner-background.png" style="width:100%;">
+  <div class="centered" style="font-size:50px">
+  <img src="_media/profile_border.png" style="width:30%;"><br>
+  Cory Corvus
+<p style="font-size:25px">
+Developer Relations Engineer - San Francisco, United States
+</p>
+</div>
+</div>
+
+
+
+
 ### 🔨 Languages and Tools
+---
 
 * C#
 * C++
@@ -19,6 +35,7 @@
 
 
 ### ✨ Skills
+---
 
 * Virtual Reality
 * Eye Tracking
@@ -31,6 +48,7 @@
 
 
 ### 💬 Presentations
+---
 
 * XRLA Meetup (E3 & SIGGRAPH) 2019
 * SVVR Meetup 2019
@@ -41,6 +59,7 @@
 
 
 ### 🌱 Project Experience
+---
 
 * [Cyberpong VR](https://store.steampowered.com/app/462000/Cyberpong/)
 * Within
@@ -57,6 +76,7 @@
 
 
 ### ⚡ Hardware Experience
+---
 
 * VIVE Pre
 * VIVE

@@ -26,6 +26,10 @@
 
 !> **Important Content**
 
+?> General Tip
+
+
+
 
 
 > [!NOTE]
