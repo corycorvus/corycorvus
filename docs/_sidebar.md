@@ -3,7 +3,7 @@
 * [Home](/)
 * [Bio](bio.md)
 * [Code](code.md)
-* [VR Guides](guides.md)
-* [VIVE Tracker Guide](vive-tracker-guide/vive-tracker-guide.md)
-* [Eye Tracker Guide](eye-tracker-guide/eye-tracker-guide.md)
+* [VR Notes](vr-notes/vr-notes.md)
+* [VIVE Tracker Notes](vive-tracker-notes/vive-tracker-notes.md)
+* [Eye Tracker Notes](eye-tracker-notes/eye-tracker-notes.md)
 
