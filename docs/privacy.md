@@ -1,0 +1,1 @@
+No personal data is collected or stored.
